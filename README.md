@@ -9,7 +9,7 @@ Professional portfolio write-up (DOCX)
 
 ## Overview
 
-GreenVibes is positioned as a **trusted guide** for vegan and more sustainable everyday choices—not just another green shop. The strategy connects useful content to awareness, consideration, conversion, and retention.
+GreenVibes is positioned as a **trusted guide** for vegan and more sustainable everyday choices not just another green shop. The strategy connects useful content to awareness, consideration, conversion, and retention.
 
 ### Core goals (6-month horizon)
 
@@ -25,16 +25,16 @@ GreenVibes is positioned as a **trusted guide** for vegan and more sustainable e
 
 ## What’s inside the document
 
-1. **Strategic framework** — positioning, goals, content principles, tone of voice  
-2. **SWOT** — strengths, weaknesses, opportunities, threats  
-3. **Buyer personas** — Committed Vegan, Eco-conscious, Healthy Explorer  
-4. **Customer journey** — Awareness → Advocacy with stage-level KPIs  
-5. **Content pillars** — Vegan Made Easy, Better Choices, Product Truth, Taste & Everyday Life, Community  
-6. **Content mix** — 40% educational · 20% lifestyle · 20% product-led · 10% community · 10% promo  
-7. **Channels** — Blog/SEO, Instagram, TikTok, Facebook, Email, YouTube (roles + cadence)  
-8. **4-week sample calendar** — realistic production plan  
-9. **Marketing analytics & KPIs** — full-funnel metrics + measurement stack (GA4, GSC, UTMs)  
-10. **Optimization cadence** — weekly / monthly / quarterly review process  
+1. **Strategic framework**  positioning, goals, content principles, tone of voice  
+2. **SWOT**  strengths, weaknesses, opportunities, threats  
+3. **Buyer personas**  Committed Vegan, Eco-conscious, Healthy Explorer  
+4. **Customer journey**  Awareness → Advocacy with stage-level KPIs  
+5. **Content pillars**  Vegan Made Easy, Better Choices, Product Truth, Taste & Everyday Life, Community  
+6. **Content mix**  40% educational · 20% lifestyle · 20% product-led · 10% community · 10% promo  
+7. **Channels**  Blog/SEO, Instagram, TikTok, Facebook, Email, YouTube (roles + cadence)  
+8. **4-week sample calendar**  realistic production plan  
+9. **Marketing analytics & KPIs**  full-funnel metrics + measurement stack (GA4, GSC, UTMs)  
+10. **Optimization cadence**  weekly / monthly / quarterly review process  
 
 ## Skills demonstrated
 
@@ -45,7 +45,7 @@ GreenVibes is positioned as a **trusted guide** for vegan and more sustainable e
 - Measurement framework (GA4, Search Console, email, social)  
 - Data-driven optimization mindset  
 
-## Portfolio description (for CV)
+
 
 **GreenVibes Content Strategy | Marketing Analytics**  
 Designed a full-funnel content strategy for a vegan e-shop: brand positioning, personas, content pillars, multi-channel plan, sample calendar, and a KPI framework covering acquisition, engagement, conversion, and retention.
