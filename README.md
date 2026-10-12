@@ -1,6 +1,6 @@
 # GreenVibes Content Strategy
 
-Full-funnel **content strategy** for a vegan e-shop: positioning, personas, content pillars, channel plan, sample calendar, and marketing analytics KPIs.
+Full-funnel **content strategy** for a vegan e-shop: positioning, personas, content pillars, channel plan, sample calendar and marketing analytics KPIs.
 
 ## Download
 
@@ -9,7 +9,7 @@ Professional portfolio write-up (DOCX)
 
 ## Overview
 
-GreenVibes is positioned as a **trusted guide** for vegan and more sustainable everyday choices not just another green shop. The strategy connects useful content to awareness, consideration, conversion, and retention.
+GreenVibes is positioned as a **trusted guide** for vegan and more sustainable everyday choices not just another green shop. The strategy connects useful content to awareness, consideration, conversion and retention.
 
 ### Core goals (6-month horizon)
 
